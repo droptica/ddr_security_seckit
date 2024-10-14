@@ -1,0 +1,6 @@
+name: 'DDR Security Kit'
+type: "Droptica's Drupal Recipes"
+description: "Enhances security using the Security Kit (SecKit) module"
+
+install:
+  - seckit
